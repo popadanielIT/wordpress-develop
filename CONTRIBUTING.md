@@ -1,4 +1,4 @@
-# Welcome to WordPress Development!
+# Welcome to WordPress Development! 
 
 For the in-depth documentation, please visit the [Contributor Handbook](https://make.wordpress.org/core/handbook/contribute/).
 
@@ -27,7 +27,7 @@ Please read the [GitHub Pull Requests for Code Review](https://make.wordpress.or
 
 In particular, note that the full Trac URL of a ticket is required within the PR body and we request that you check the "Allow edits and access to secrets by maintainers" to allow Core contributors easier work with your submission.  
 
-## Questions about Contributing?
+## Questions about Contributing? 
 
 The [WordPress Slack instance](https://make.wordpress.org/chat/) is the real-time communication platform. You can also join the conversation via the [Make Network of blogs](https://make.wordpress.org).
 
